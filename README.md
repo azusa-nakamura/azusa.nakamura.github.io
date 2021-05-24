@@ -5,3 +5,5 @@ Thank you very much for visiting my website. I am a 5th year Ph.D. candidate at 
 
 #Research interests
 Social network analysis, Status, Whistle-blowing, Recognition, Creativity, and Hollywood movie industry
+
+For further information, please check "Research", "Teaching", and "CV".
