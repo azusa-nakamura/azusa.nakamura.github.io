@@ -1,0 +1,40 @@
+!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Azusa Nakamura" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://azusa-nakamura.github.io/azusa.nakamura.github.io/" />
+<meta property="og:url" content="https://azusa-nakamura.github.io/azusa.nakamura.github.io/" />
+<meta property="og:site_name" content="azusa.nakamura.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Azusa Nakamura" />
+<script type="application/ld+json">
+{"headline":"Azusa Nakamura","url":"https://azusa-nakamura.github.io/azusa.nakamura.github.io/","@type":"WebSite","name":"azusa.nakamura.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/azusa.nakamura.github.io/assets/css/style.css?v=c6660dd290ad98da5935416990ad73139255b6cf">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://azusa-nakamura.github.io/azusa.nakamura.github.io/">azusa.nakamura.github.io</a></h1>
+      
+
+      <h1 id="azusa-nakamura">Research</h1>
+<p>Working papers</p>
+<p>Can't buy me ties? Incentive redesign as a driver of network evolution in organizations (Prof. Mitsuhashi & me, Under review in SMJ) </p>
+<p>Stand up or stand by: The effects of network positions on whistle-blowing (with Prof. Soda) </p>
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
