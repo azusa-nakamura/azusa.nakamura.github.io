@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Azusa Nakamura
+description: Department of Management and Technology | Bocconi University
 
-baseurl: /gradfolio #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
-email: #
+baseurl: azusa.nakamura.github.io
+url: https://azusa-nakamura.github.io/azusa.nakamura.github.io/
+email: azusa.nakamura@phd.unibocconi.it
 
 
 highlighter: rouge
@@ -17,12 +17,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+github: "azusa-nakamura"
+
 
 highlighter: rouge
 markdown: kramdown
